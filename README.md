@@ -6,9 +6,13 @@ foram retirados do portal freepik.com (referências: <a href="http://www.freepik
 <a href="http://www.freepik.com"/a>Designed by macrovector / Freepik</a>), e as músicas utilizadas foram retiradas do
 portal <a href="https://downloads.khinsider.com/game-soundtracks/album/outrun-sega-genesis"/a>.
 
----Comandos do jogo---
+Comandos do jogo
+
 1 - Na tela inicial, pressione | (A) ou (<-) para esquerda | (D) ou (->) para a direita | (Espaço) para confirmar.
+
 2 - Durante a corrida, Pressione | (A) ou (<-) para esquerda | (D) ou (->) para a direita | (M) para trocar a música.
+
+
 
 
 Essa foi minha primeira tentativa de fazer um jogo utilizando a biblioteca pygame! ;-)
