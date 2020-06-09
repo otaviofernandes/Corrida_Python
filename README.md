@@ -18,7 +18,7 @@ As músicas utilizadas foram retiradas do portal:
 
 1 - Na tela inicial, pressione | (A) ou (<-) para esquerda | (D) ou (->) para a direita | (Espaço) para confirmar.
 
-2 - Durante a corrida, Pressione | (A) ou (<-) para esquerda | (D) ou (->) para a direita | (M) para trocar a música.
+2 - Durante a corrida, pressione | (A) ou (<-) para esquerda | (D) ou (->) para a direita | (M) para trocar a música.
 
 
 
